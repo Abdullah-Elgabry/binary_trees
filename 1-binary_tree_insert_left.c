@@ -1,8 +1,8 @@
 #include "binary_trees.h"
 
 /**
- * binary_tree_insert_left -
- * this is the insertion node function to the left-child to another node.
+ * binary_tree_insert_left - this is the insertion node
+ * function to the left-child to another node.
  *
  * @parent: this is a ptr to the node to insert the left-child in.
  *
